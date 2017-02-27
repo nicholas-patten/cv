@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.6.9)  19 FEB 2017 14:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.6.9)  27 FEB 2017 21:59
 entering extended mode
 **cv.tex
-("C:\Users\ned\Google Drive\Documents\Job Applications\cv\LaTeX\cv.tex"
+("C:\Users\ned\Google Drive\Documents\job-applications\cv\LaTeX\cv.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -979,7 +979,7 @@ LaTeX Font Warning: Font shape `T1/helveticaneue/c/n' undefined
 LaTeX Warning: Unused global option(s):
     [sans].
 
-("C:\Users\ned\Google Drive\Documents\Job Applications\cv\LaTeX\cv.aux")
+("C:\Users\ned\Google Drive\Documents\job-applications\cv\LaTeX\cv.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
@@ -1120,6 +1120,10 @@ LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <12> not available
 (Font)              Font shape `T1/phv/b/sc' tried instead on input line 163.
 LaTeX Font Info:    Font shape `T1/phv/b/sc' will be
 (Font)              scaled to size 11.64001pt on input line 163.
+
+Overfull \vbox (11.59944pt too high) has occurred while \output is active []
+
+
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -1138,21 +1142,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 236--237
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--243
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--246
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
-
- []
-
-[2] ("C:\Users\ned\Google Drive\Documents\Job Applications\cv\LaTeX\cv.aux")
+[2] ("C:\Users\ned\Google Drive\Documents\job-applications\cv\LaTeX\cv.aux")
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1160,16 +1159,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  9097 strings out of 493944
  125627 string characters out of 3148240
- 265549 words of memory out of 3000000
+ 264549 words of memory out of 3000000
  12262 multiletter control sequences out of 15000+200000
  40279 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 43i,16n,35p,427b,301s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,16n,35p,500b,307s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/helvetic/uhvb8a.pfb>
-Output written on cv.pdf (2 pages, 49886 bytes).
+Output written on cv.pdf (2 pages, 50004 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
