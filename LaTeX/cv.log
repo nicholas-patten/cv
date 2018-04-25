@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.22)  22 APR 2018 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.22)  25 APR 2018 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1236,25 +1236,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--106
  []
 
 LaTeX Font Info:    Font shape `T1/bch/bx/sc' in size <12> not available
-(Font)              Font shape `T1/bch/b/sc' tried instead on input line 133.
+(Font)              Font shape `T1/bch/b/sc' tried instead on input line 136.
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <12> not available
-(Font)              Font shape `T1/phv/b/sc' tried instead on input line 145.
+(Font)              Font shape `T1/phv/b/sc' tried instead on input line 148.
 LaTeX Font Info:    Font shape `T1/phv/b/sc' will be
-(Font)              scaled to size 11.64001pt on input line 145.
+(Font)              scaled to size 11.64001pt on input line 148.
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
@@ -1266,7 +1266,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  9513 strings out of 492995
  133000 string characters out of 6132703
- 284770 words of memory out of 5000000
+ 284700 words of memory out of 5000000
  12924 multiletter control sequences out of 15000+600000
  40279 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1275,7 +1275,7 @@ Here is how much of TeX's memory you used:
 exlive/2017/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive
 /2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on cv.pdf (2 pages, 47652 bytes).
+Output written on cv.pdf (2 pages, 47693 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  17 compressed objects within 1 object stream
